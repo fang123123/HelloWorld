@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="num">0</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="Access">login</string>
+    <string name="Return">return</string>
+    <string name="music_title">平淡日子里的刺</string>
+    <string name="music_singer">宋冬野</string>
+</resources>
